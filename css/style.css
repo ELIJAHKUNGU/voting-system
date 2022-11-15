@@ -1,0 +1,16 @@
+*{
+padding: 0px;
+margin: 0px;
+
+}
+.profile-image {
+    height: 40px;
+    
+    border-radius: 40px;
+}
+table{
+    width: 100%;
+}
+table th ,table td{
+    border: 2px solid green;
+}
